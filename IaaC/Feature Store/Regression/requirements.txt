@@ -1,2 +1,5 @@
 numpy
 xgboost
+matplotlib
+pandas
+scikit-learn
